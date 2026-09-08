@@ -4,12 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Chakkrit+Jongkraijak!;Full-stack+Web+Developer" alt="typing SVG" />
 </h1>
 
-<p align="center">
-  Computer Engineering graduate from <b>Chulalongkorn University</b>, based in Bangkok 🇹🇭<br/>
-  Most recently a contract software developer at <b>Agoda</b>, working on their large-scale frontend monorepo.<br/>
-  I build fast, accessible web apps with React, Next.js and TypeScript.
-</p>
-
 <div align="center">
   <a href="mailto:mchakkrit2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -36,10 +30,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MisterStank&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterStank&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MisterStank&hide_border=true&theme=tokyonight" alt="streak" />
 </div>
