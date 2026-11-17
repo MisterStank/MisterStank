@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,dart,python,c,cpp" /><br/>
+    <img src="https://skillicons.dev/icons?i=ts,js,go,dart,python,c,cpp,java,cs" /><br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,html,css,flutter" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,git,github,githubactions,docker,vscode,figma" /><br/>
 </div>
@@ -33,6 +33,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MisterStank&hide_border=true&theme=tokyonight" alt="streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MisterStank&layout=compact&langs_count=10&theme=tokyonight" alt="top-lang" />
 </div>
 
 <hr/>
